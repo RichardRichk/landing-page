@@ -285,11 +285,11 @@ footer .copyright p{
     }
 
     /******Temporariamente off******/
-    /*main,
+    main,
     footer
     {
         display: none;
-    }*/
+    }
 
     header #menu-mobile{
         display: block;
