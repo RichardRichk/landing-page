@@ -68,7 +68,7 @@ header nav a{
     border-radius: 5px;
 }
 
-header .menu-mobile{
+header #menu-mobile{
     display: none;
 }
 
@@ -304,7 +304,6 @@ footer .copyright p{
         background-color: #F9003D;
         flex-direction: column;
         justify-content: space-evenly;
-        z-index: 1;
         opacity: 0;
         transition: left 0.5s, opacity 0.7s
     }
